@@ -1,0 +1,1 @@
+BTK Akademide Atıl Samancıoğlu hocamız tarafından düzenlenen "Veri Bilimi için Python ve Tensorflow" eğitiminde not aldığım Python kodları. NOT: BTK Akademi "Veri Bilimi için Python ve Tensorflow" sertifikasına sahibim.
